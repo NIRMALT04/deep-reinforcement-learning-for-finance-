@@ -1,0 +1,9 @@
+stable-baselines3
+gym
+pandas
+numpy
+google-auth
+google-api-python-client
+transformers
+openpyxl
+
